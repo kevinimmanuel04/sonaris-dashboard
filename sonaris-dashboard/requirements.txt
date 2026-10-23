@@ -1,0 +1,14 @@
+# Project S.O.N.A.R.I.S. — Python Backend Dependencies
+# Hardware LiDAR Spatial Telemetry, Optical Panorama Stitching & 3D Point Cloud Processing
+
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-multipart>=0.0.9
+opencv-python>=4.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+open3d>=0.17.0
+pillow>=10.0.0
+transformers>=4.35.0
+requests>=2.31.0
