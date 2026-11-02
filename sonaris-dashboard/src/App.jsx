@@ -258,6 +258,7 @@ export default function App() {
           <LiveSensorMatrix
             onPCDGenerated={handlePCDGenerated}
             onSwitchToWorkspace={() => handleTabSwitch('workspace')}
+            showToast={showToast}
           />
         )}
       </main>
